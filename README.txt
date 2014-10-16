@@ -1,0 +1,1 @@
+Java program that plots Julia fractals and allows the user to select the complex constant that determines the form of the fractal
